@@ -8,7 +8,8 @@ OR
 ```pytest -sv --setup-show```
 
 ## Output
-```% pytest -sv --setup-show
+```
+% pytest -sv --setup-show
 pytest_configure()
 ========================================================= test session starts ==========================================================
 platform darwin -- Python 3.10.10, pytest-7.2.0, pluggy-1.0.0 -- /opt/homebrew/opt/python@3.10/bin/python3.10
